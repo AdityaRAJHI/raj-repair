@@ -15,7 +15,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-8">
-            <h1 className="text-xl font-bold">Parakh Repairs</h1>
+            <h1 className="text-xl font-bold">Raj Auto Repairs</h1>
             <nav className="hidden md:flex space-x-6">
               <a href="#" className="text-sm font-medium hover:text-primary transition-colors">Home</a>
               <a href="#services" className="text-sm font-medium hover:text-primary transition-colors">Services</a>
